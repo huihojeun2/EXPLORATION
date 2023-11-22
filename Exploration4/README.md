@@ -42,7 +42,7 @@
     - 문제에서 요구하는 조건에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.
-     ![image](https://github.com/huihojeun2/EXPLORATION/assets/141803633/84060467-e38e-451a-b45f-e1ab1a3e306a)
+     ![image](https://github.com/huihojeun2/EXPLORATION/assets/141803633/84060467-e38함
 
         
 - [ ]  **4. 회고를 잘 작성했나요?** 
@@ -57,3 +57,7 @@
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 모듈화(함수화) 했는지
         - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.
+    ![image](https://github.com/huihojeun2/EXPLORATION/assets/141803633/15d54d1f-82e7-4674-9600-03b2edc1f4c1)
+
+    - pep8을 준수하여 알아보기 쉽게 작성
+
