@@ -12,7 +12,8 @@
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 부분의 코드 및 결과물을 근거로 첨부
-          ![image](https://github.com/huihojeun2/EXPLORATION/assets/141803633/5e2d5487-0a5d-4c36-86d7-ece916f53586)
+![image](https://github.com/huihojeun2/EXPLORATION/assets/141803633/2628784f-7c19-4c9f-acb1-0c8820a5bc98)
+
      
 
   
