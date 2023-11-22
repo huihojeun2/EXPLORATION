@@ -14,7 +14,8 @@
         - 해당 조건을 만족하는 부분의 코드 및 결과물을 근거로 첨부
 
 ![image](https://github.com/huihojeun2/EXPLORATION/assets/141803633/352f3ff8-230d-4517-9f78-ea9eeca8c1c5)
-![image](https://github.com/huihojeun2/EXPLORATION/assets/141803633/83511148-4d28-4583-9df3-f7db94a055bf)
+![image](https://github.com/huihojeun2/EXPLORATION/assets/141803633/0e3f94da-919b-4896-b94f-3920f1743d37)
+
 
 
 
