@@ -3,6 +3,7 @@
 - 코더 : 전휘호
 - 리뷰어 : 
 
+![image](https://github.com/huihojeun2/EXPLORATION/assets/65065859/1dcf7074-11d2-453f-b8bc-179e01fc10c9)
 
 
 🔑 **PRT(Peer Review Template)**
