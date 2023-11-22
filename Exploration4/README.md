@@ -1,6 +1,6 @@
 # AIFFEL Campus Online 7th Code Peer Review Templete
 
-- 코더 : 
+- 코더 : 전휘호
 - 리뷰어 : 
 
 
