@@ -1,7 +1,7 @@
 # AIFFEL Campus Online 7th Code Peer Review Templete
 
 - 코더 : 전휘호
-- 리뷰어 : 
+- 리뷰어 : 황준연
 
 
 
@@ -13,6 +13,9 @@
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 부분의 코드 및 결과물을 근거로 첨부
         - ![image](https://github.com/huihojeun2/EXPLORATION/assets/141803633/fb463e16-08fa-4daa-8e43-54e744b0eab2)
+        - ![image](https://github.com/huihojeun2/EXPLORATION/assets/141803633/90bdb2be-2763-4715-90ca-533021464517)
+        - 데이터 전처리와 캐글 리더보드의 Private score 기준 110000 이하의 점수를 얻었다 
+
 
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
