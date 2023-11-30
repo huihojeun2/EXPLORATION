@@ -11,7 +11,9 @@
         - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부
      
 ![image](https://github.com/youungg/EXPLORATION_JHH/assets/149548911/a7348876-f755-45be-bec8-647cf845ddd2)
+
 ![image](https://github.com/youungg/EXPLORATION_JHH/assets/149548911/6a16ece9-cbc2-4154-839b-48a98ef82c27)
+
 ![image](https://github.com/youungg/EXPLORATION_JHH/assets/149548911/103edcfe-cd3c-4cca-8826-3c3bf94e94d7)
 
 위 작성된 코드들 및 결과들로 보아 프로젝트 루브릭에서 요구하는 조건을 만족함을 알 수 있다.
